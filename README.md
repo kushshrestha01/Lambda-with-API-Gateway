@@ -1,7 +1,7 @@
 # Lab 33: Lambda with API Gateway
 
 ## Overview
-Lambda to use display first repeated word in sentence functionality with API Gateway.
+Lambda to use display first repeated word in sentence using API Gateway.
 
 ## Feature Tasks
 1. User is able to find the first repeated word in a sentence by visiting a URL.
@@ -12,4 +12,4 @@ Lambda to use display first repeated word in sentence functionality with API Gat
 https://xwpgj6clla.execute-api.us-east-1.amazonaws.com/repeatedword
 
 ## For testing
-https://xwpgj6clla.execute-api.us-east-1.amazonaws.com/repeatedword?input=Sentences
+After url add ?input=Sentences to be tested
